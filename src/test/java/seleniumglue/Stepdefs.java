@@ -4,16 +4,37 @@ import cucumber.api.PendingException;
 import cucumber.api.java.After;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import cucumber.api.java.After;
+import cucumber.api.java.Before;
+import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;
 import cucumber.api.java.en.Then;
 import static org.junit.Assert.*;
 
 public class Stepdefs {
+
+    // instantiating web driver object
+    public static WebDriver driver;
+
+    // user A scenario
+
+    @Before
+    public void setWebDriver(){
+        // instantiating web driver object
+
+        // need to make sure that its your local path directory
+        System.setProperty("webdriver.chrome.driver", "C:/Users/Admin/Documents/École/McGill/W19/ECSE428/chromedriver.exe");
+        driver = new ChromeDriver();
+        driver.navigate().to("https://mail.google.com/");
+    }
+
 
 
     @Given("^Open the Firefox and launch the application$")

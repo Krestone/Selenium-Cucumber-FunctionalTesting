@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6b54604-f564-4123-bef6-0ebb12b39b27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/assignmentB/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/assignmentB/RunCucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/assignmentB/Stepdefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,29 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/assignmentB/RunCucumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="268">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -47,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="88">
+              <caret line="32" column="124" selection-start-line="32" selection-start-column="124" selection-end-line="32" selection-end-column="124" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,10 +64,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="406" />
-    <option name="y" value="52" />
+    <option name="x" value="405" />
+    <option name="y" value="51" />
     <option name="width" value="1400" />
-    <option name="height" value="1028" />
+    <option name="height" value="1029" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,90 +75,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="assignmentB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seleniumglue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-Cucumber-FunctionalTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assignmentB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucumber-agile-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucumber-agile-test" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
               <item name="assignmentB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552270537999" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552272849075" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -209,6 +177,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in cucumber-agile-test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber-agile-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cucumber-agile-test" />
       <extension name="coverage">
@@ -227,7 +203,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RunCucumberTest" />
-        <item itemvalue="Cucumber java.Scenario: Verification of Reset button" />
+        <item itemvalue="JUnit.All in cucumber-agile-test" />
       </list>
     </recent_temporary>
   </component>
@@ -246,27 +222,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunCucumberTest - 2019.03.10 at 21h 59m 38s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 00m 13s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 01m 39s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 02m 03s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 03m 39s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 04m 09s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Scenario__Verification_of_Reset_button - 2019.03.10 at 22h 06m 20s.xml">
-      <configuration name="Scenario: Verification of Reset button" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="RunCucumberTest - 2019.03.10 at 22h 08m 57s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
@@ -276,43 +231,63 @@
     <history-entry file="RunCucumberTest - 2019.03.10 at 22h 13m 13s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_cucumber-agile-test - 2019.03.10 at 22h 31m 35s.xml">
+      <configuration name="All in cucumber-agile-test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 32m 10s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 41m 37s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 45m 44s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 46m 37s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 48m 09s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.10 at 22h 48m 59s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2570481" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298969" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30094042" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.060906515" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298969" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,25 +297,18 @@
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/assignmentB/RunCucumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -349,16 +317,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="268">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="88">
+          <caret line="32" column="124" selection-start-line="32" selection-start-column="124" selection-end-line="32" selection-end-column="124" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
