@@ -8,8 +8,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -141,7 +139,7 @@ public class Stepdefs {
 
         // find the input element
         WebElement elem = driver.findElement(By.xpath("//input[@type='file']"));
-        elem.sendKeys("/Users/antoine/Documents/Pictures/" + string);
+        elem.sendKeys("C:/Users/Admin/Pictures/" + string);
         (new WebDriverWait(driver, 10)).until(ExpectedConditions.elementToBeClickable(By.cssSelector("a.dO")));
     }
 
@@ -153,7 +151,7 @@ public class Stepdefs {
         WebElement send = (new WebDriverWait(driver, 20))
                 .until(ExpectedConditions.elementToBeClickable(By.xpath("/html[1]/body[1]/div[26]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[4]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[2]")));
         send.click();
-        WebElement invalid = (new WebDriverWait(driver, 10))
+        WebElement invalid = (new WebDriverWait(driver, 20))
                 .until(ExpectedConditions.elementToBeClickable(By.name("ok")));
         invalid.click();
         WebElement garbage = (new WebDriverWait(driver, 10))

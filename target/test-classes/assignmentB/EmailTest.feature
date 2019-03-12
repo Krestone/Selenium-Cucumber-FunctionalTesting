@@ -12,11 +12,10 @@ Feature: Send email with an image attachment
 
     Examples:
       | email                         | attachment |
-      | alexanormandin@hotmail.com    | 1.jpg      |
-      | alexnorms6528@gmail.com       | 2.jpg      |
-      | alexa.normandin@mail.mcgil.ca | 3.jpg      |
-      |                  | 4.jpg      |
-      |                  | 5.jpg      |
+      | alexanormandin@hotmail.com    | image1.jpg      |
+     # | alexnorms6528@gmail.com       | image2.jpg      |
+     # | alexa.normandin@mail.mcgil.ca | image3.jpg      |
+
 
 
 
@@ -34,12 +33,10 @@ Feature: Send email with an image attachment
 
 
      Examples:
-       | email                    |               ccemail           | attachment |
-       | jochampion17@gmail.com   |     jingxujaster@hotmail.com    |  1.jpg     |
-       | jingxujaster@hotmail.com |        jochampion17@gmail.com   |  2.jpg     |
-       | jackjingxu@yahoo.com     |        jingxujaster@hotmail.com | 3.jpg      |
-       | abc@gmail.com            |      jingxujaster@hotmail.com   |  4.jpg     |
-       | bbc@gmail.com            |       jingxujaster@hotmail.com  | 5.jpg      |
+       | email                    |               ccemail                         | attachment |
+       | alexanormandin@hotmail.com         |     alexnorms6528@gmail.com         |  image1.jpg     |
+      # | alexanormandin@hotmail.com         |     alexa.normandin@mail.mcgill.ca  |  image2.jpg     |
+      # | alexa.normandin@mail.mcgill.ca     |        alexyunus@gmail.com          |  image3.jpg     |
 
 
 
@@ -56,8 +53,6 @@ Feature: Send email with an image attachment
 
      Examples:
        | email                   | attachment |
-       | jlkds                   | 1.jpg      |
-       | jingter sdsf            | 2.jpg      |
-       | jakjixu                 | 3.jpg      |
-       | bc                      | 4.jpg      |
-       | bb@g                    | 5.jpg      |
+       | jlkds                   | image1.jpg      |
+      # | jingter sdsf            | image2.jpg      |
+      # | jakjixu                 | image3.jpg      |
