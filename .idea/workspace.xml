@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6b54604-f564-4123-bef6-0ebb12b39b27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/assignmentB/EmailTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/assignmentB/EmailTest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumglue/Stepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumglue/Stepdefs.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="116">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -29,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1302">
-              <caret line="170" column="57" lean-forward="true" selection-start-line="170" selection-start-column="57" selection-end-line="170" selection-end-column="57" />
+            <state relative-caret-position="26">
+              <caret line="153" column="57" selection-start-line="153" selection-start-column="57" selection-end-line="153" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,8 +46,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/assignmentB/Stepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/assignmentB/RunCucumberTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" />
       </list>
     </option>
   </component>
@@ -61,9 +58,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="405" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="310" />
     <option name="width" value="1400" />
     <option name="height" value="1030" />
   </component>
@@ -220,34 +216,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunCucumberTest - 2019.03.11 at 23h 50m 02s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 34m 39s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.11 at 23h 51m 08s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 36m 55s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.11 at 23h 51m 33s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 37m 03s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.11 at 23h 53m 27s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 41m 42s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.11 at 23h 53m 36s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 42m 44s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.11 at 23h 55m 28s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 43m 32s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 01m 25s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 45m 19s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 01m 48s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 45m 44s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 03m 17s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 48m 30s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 05m 33s.xml">
+    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 53m 53s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -255,10 +251,9 @@
     <option name="totallyTimeSpent" value="2728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="248" y="0" width="1120" height="824" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17248322" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24245283" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,7 +262,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23229462" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5245665" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,15 +319,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        <state relative-caret-position="116">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="170" column="57" lean-forward="true" selection-start-line="170" selection-start-column="57" selection-end-line="170" selection-end-column="57" />
+        <state relative-caret-position="26">
+          <caret line="153" column="57" selection-start-line="153" selection-start-column="57" selection-end-line="153" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

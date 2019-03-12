@@ -134,7 +134,7 @@ public class Stepdefs {
         WebElement text = (new WebDriverWait(driver, 20))
                 .until(ExpectedConditions.elementToBeClickable(By.xpath("/html[1]/body[1]/div[26]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[4]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[1]/div[2]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[1]")));
         text.click();
-        text.sendKeys("Hi! I have inserted an image attachment!");
+        text.sendKeys("This is a test fot ECSE428.");
         System.out.println("Body text set");
 
         // find the input element
@@ -151,7 +151,7 @@ public class Stepdefs {
         WebElement send = (new WebDriverWait(driver, 20))
                 .until(ExpectedConditions.elementToBeClickable(By.xpath("/html[1]/body[1]/div[26]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[4]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[2]")));
         send.click();
-        WebElement invalid = (new WebDriverWait(driver, 20))
+        WebElement invalid = (new WebDriverWait(driver, 10))
                 .until(ExpectedConditions.elementToBeClickable(By.name("ok")));
         invalid.click();
         WebElement garbage = (new WebDriverWait(driver, 10))

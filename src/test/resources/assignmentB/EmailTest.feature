@@ -13,9 +13,10 @@ Feature: Send email with an image attachment
     Examples:
       | email                         | attachment |
       | alexanormandin@hotmail.com    | image1.jpg      |
-     # | alexnorms6528@gmail.com       | image2.jpg      |
-     # | alexa.normandin@mail.mcgil.ca | image3.jpg      |
-
+      #| yunus.cukran@gmail.com        | image2.jpg      |
+      #| alexa.normandin@mail.mcgil.ca | image3.jpg      |
+     # | alexa.normandin@mail.mcgil.ca | image4.jpg      |
+      #| alexa.normandin@mail.mcgil.ca | image5.jpg      |
 
 
 
@@ -35,8 +36,10 @@ Feature: Send email with an image attachment
      Examples:
        | email                    |               ccemail                         | attachment |
        | alexanormandin@hotmail.com         |     alexnorms6528@gmail.com         |  image1.jpg     |
-      # | alexanormandin@hotmail.com         |     alexa.normandin@mail.mcgill.ca  |  image2.jpg     |
-      # | alexa.normandin@mail.mcgill.ca     |        alexyunus@gmail.com          |  image3.jpg     |
+       #| alexanormandin@hotmail.com         |     alexa.normandin@mail.mcgill.ca  |  image2.jpg     |
+       #| alexa.normandin@mail.mcgill.ca     |        yunus.cukran@gmail.com       |  image3.jpg     |
+       #| alexa.normandin@mail.mcgill.ca     |        alexanormandin@hotmail.com   |  image4.jpg     |
+       #| alexa.normandin@mail.mcgill.ca     |        alexyunus@gmail.com          |  image5.jpg     |
 
 
 
@@ -53,6 +56,8 @@ Feature: Send email with an image attachment
 
      Examples:
        | email                   | attachment |
-       | jlkds                   | image1.jpg      |
-      # | jingter sdsf            | image2.jpg      |
-      # | jakjixu                 | image3.jpg      |
+       | akefj                  | image1.jpg      |
+       #| skjfbskjrf             | image2.jpg      |
+       #| alexyunus              | image3.jpg      |
+       #| alexyunus              | image4.jpg      |
+       #| alexyunus              | image5.jpg      |
