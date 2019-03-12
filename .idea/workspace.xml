@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6b54604-f564-4123-bef6-0ebb12b39b27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="186">
+              <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="153" column="57" selection-start-line="153" selection-start-column="57" selection-end-line="153" selection-end-column="57" />
+            <state relative-caret-position="206">
+              <caret line="154" column="74" lean-forward="true" selection-start-line="154" selection-start-column="74" selection-end-line="154" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,8 +45,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/assignmentB/Stepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/assignmentB/RunCucumberTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature" />
       </list>
     </option>
   </component>
@@ -216,12 +215,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 34m 39s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2019.03.12 at 00h 36m 55s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunCucumberTest - 2019.03.12 at 00h 37m 03s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
@@ -246,14 +239,21 @@
     <history-entry file="RunCucumberTest - 2019.03.12 at 00h 53m 53s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.12 at 01h 56m 42s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.03.12 at 01h 58m 02s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="248" y="0" width="1120" height="824" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24245283" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17248322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,7 +262,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5245665" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37393767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,20 +317,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumglue/Stepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="153" column="57" selection-start-line="153" selection-start-column="57" selection-end-line="153" selection-end-column="57" />
+        <state relative-caret-position="206">
+          <caret line="154" column="74" lean-forward="true" selection-start-line="154" selection-start-column="74" selection-end-line="154" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/assignmentB/EmailTest.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
         </state>
       </provider>
     </entry>

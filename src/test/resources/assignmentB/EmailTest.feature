@@ -52,11 +52,11 @@ Feature: Send email with an image attachment
      And I enter "<email>" as invalid recipient address
      And I enter "<attachment>" as the file in body text
      And I click on send
-     Then I have sent an email with an attachment to the proper recipient
+     Then I cannot send an email to the recipient
 
      Examples:
        | email                   | attachment |
-       | akefj                  | image1.jpg      |
+       | akefj                   | image1.jpg      |
        #| skjfbskjrf             | image2.jpg      |
        #| alexyunus              | image3.jpg      |
        #| alexyunus              | image4.jpg      |
